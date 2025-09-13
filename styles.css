@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-direction:row;
+	width:400px;
+	aspect-ratio:1/1;
+
+	align-items:center;
+	justify-content:center;
+	background-color:red;
+}
+.item-1{
+	background-color:white;
+	width:100px;
+    aspect-ratio:1/1;
+	text-align:center;
+}
+	
